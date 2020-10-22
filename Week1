@@ -1,4 +1,0 @@
-## This Jupyter Notebook will mainly used for Applied Data Science Capstone Project Week 1 for IBM Data Science Certificate
-import pandas as pd
-import numpy as np
-print("Hello Capstone Project Course!")
